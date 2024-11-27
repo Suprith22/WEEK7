@@ -10,7 +10,7 @@ float avg(int ar[], int size)
 }
 int main() 
 {
-    int ar[5] = {10, 20, 30, 40, 50};
+    int ar[5] = {100, 50, 20, 40, 50};
     printf("Average: %f", avg(ar, 5));
     return 0;
 }  
